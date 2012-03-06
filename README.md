@@ -1,4 +1,4 @@
-Tiny brainfuck intepreter
+Tiny brainfuck interpreter
 =========================
 
 Currently, the size of bf.c is 312 bytes.
